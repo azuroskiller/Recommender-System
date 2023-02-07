@@ -1,5 +1,5 @@
 # Recommender-System
-A Movie Recommendation System for Capstone Project
+A Movie Recommendation System for Capstone Project developed using ReactJS and Springboot
 
 ## Created by Hairul Wafiq
 
